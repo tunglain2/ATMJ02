@@ -1,0 +1,307 @@
+{
+  "project_info": {
+    "project_number": "63103587233",
+    "firebase_url": "https://atm18-53242.firebaseio.com",
+    "project_id": "atm18-53242",
+    "storage_bucket": "atm18-53242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63103587233:android:784ab96a60034c19",
+        "android_client_info": {
+          "package_name": "com.tom.atm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63103587233-fouoidn1iop4j3d6vkiui2lhaoc5h5e4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tom.atm2",
+            "certificate_hash": "4094023102d9f8b79b6efab4f9e6bdfeb1f920c8"
+          }
+        },
+        {
+          "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2X58Va9WYEjsq61QzQz3PKTkp--wvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63103587233:android:95dc044b3911c1c4",
+        "android_client_info": {
+          "package_name": "com.tunglain.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63103587233-08vg1oluirqa180pna7iilvl6qo2qe06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunglain.atm",
+            "certificate_hash": "4094023102d9f8b79b6efab4f9e6bdfeb1f920c8"
+          }
+        },
+        {
+          "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2X58Va9WYEjsq61QzQz3PKTkp--wvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63103587233:android:2746ec06e01a4697",
+        "android_client_info": {
+          "package_name": "com.tunglain.atm3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63103587233-kj83k3o4irke0slejujcoaon198ufriv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunglain.atm3",
+            "certificate_hash": "4094023102d9f8b79b6efab4f9e6bdfeb1f920c8"
+          }
+        },
+        {
+          "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2X58Va9WYEjsq61QzQz3PKTkp--wvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63103587233:android:1cd73f59bfffafbe",
+        "android_client_info": {
+          "package_name": "com.tunglain.atm4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63103587233-a94o1qmevi2br9ukcb9gc9uc2lqkhfpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunglain.atm4",
+            "certificate_hash": "4094023102d9f8b79b6efab4f9e6bdfeb1f920c8"
+          }
+        },
+        {
+          "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2X58Va9WYEjsq61QzQz3PKTkp--wvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63103587233:android:404b43d209355e42",
+        "android_client_info": {
+          "package_name": "com.tunglain.atm5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63103587233-o1rjel1hob09q3qc3knrbj4bl9q9rq0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunglain.atm5",
+            "certificate_hash": "4094023102d9f8b79b6efab4f9e6bdfeb1f920c8"
+          }
+        },
+        {
+          "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2X58Va9WYEjsq61QzQz3PKTkp--wvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63103587233:android:93ad05fd09ef4561",
+        "android_client_info": {
+          "package_name": "com.tunglain.atmj01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63103587233-198fe0lgga5p8ga6gs53isgj9lr9gq68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunglain.atmj01",
+            "certificate_hash": "4094023102d9f8b79b6efab4f9e6bdfeb1f920c8"
+          }
+        },
+        {
+          "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2X58Va9WYEjsq61QzQz3PKTkp--wvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63103587233:android:4c973b8fd2f43d93",
+        "android_client_info": {
+          "package_name": "com.tunglain.atmj02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63103587233-2u9pda9trpf86irbg0fbnf6de9ivffr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunglain.atmj02",
+            "certificate_hash": "4094023102d9f8b79b6efab4f9e6bdfeb1f920c8"
+          }
+        },
+        {
+          "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2X58Va9WYEjsq61QzQz3PKTkp--wvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63103587233:android:f5b3502344338438",
+        "android_client_info": {
+          "package_name": "com.tunglain.atmtestj01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63103587233-0gvfg9titrj0qairpkou7nuhu34qrtij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunglain.atmtestj01",
+            "certificate_hash": "4094023102d9f8b79b6efab4f9e6bdfeb1f920c8"
+          }
+        },
+        {
+          "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2X58Va9WYEjsq61QzQz3PKTkp--wvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63103587233-hcanjo39bgf63qo0hq6c1hht1h2cfhb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
